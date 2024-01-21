@@ -2,7 +2,7 @@
 Simple Unity Game
 
 
-Controls
+Controls:
 
 
 W,S to move
@@ -11,7 +11,7 @@ W,S to move
 A,D to turn the board
 
 
-Purpose
+Purpose:
 
 Be the last one standing.
 
